@@ -61,7 +61,7 @@ export default function RootLayout({
       <head>
         {/* Preload logo from API route */}
         <link rel="preload" href="/api/logo" as="image" type="image/jpeg" />
-        <link rel="dns-prefetch" href="//localhost" />
+        <link rel="dns-prefetch" href="//dementia-care-web.vercel.app" />
         <style dangerouslySetInnerHTML={{
           __html: `
             /* Prevent initial logo flicker */
