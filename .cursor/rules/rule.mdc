@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+The project is built using Next.js, TypeScript, Tailwind CSS, and shadcn UI. It follows a feature-first clean architecture approach. Code reusability is important, such as reusing button components across different portals (e.g., super admin, doctor portal and hospital portal) instead of duplicating them.

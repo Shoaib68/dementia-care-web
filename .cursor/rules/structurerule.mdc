@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+always read structure.md file to keep track of the project structure. I am using feature first clean architecture, When implementing anything in code first read the structure.md file to keep track and if you need to create a new file to make some functionality, add it in the structure.md file, make sure to implement resuable componenets where it is possible.
+always read the databasemain.md file to know about the database, do not do direct changes to database
